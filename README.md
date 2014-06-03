@@ -1,2 +1,0 @@
-pichaya.github.io
-=================
