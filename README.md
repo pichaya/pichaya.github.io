@@ -3,14 +3,11 @@
 ## Contents
 
 - [Usage](#usage)
-- [Options](#options)
 - [License](#license)
 
 ## Usage
 
-ห้ามดื่มเกินวันละ 2 ขวด โปรดสังเกตคำเตือนบนฉลากก่อนดื่มทุกครั้ง
-
-## Options
+ลอง Jekyll อยากรู้มันดียังไง
 
 ## License
 
